@@ -1,0 +1,34 @@
+Marcin Gortat	C	Phoenix Suns
+Grant Hill	SF	Phoenix Suns
+Steve Nash	PG	Phoenix Suns
+Spencer Hawes	C	Philadelphia 76ers
+Jrue Holiday	PG	Philadelphia 76ers
+Andre Iguodala	SF	Philadelphia 76ers
+Jodie Meeks	G	Philadelphia 76ers
+Evan Turner	SG	Philadelphia 76ers
+Kevin Durant	SF	Oklahoma City Thunder
+Derek Fisher	PG	Oklahoma City Thunder
+James Harden	G	Oklahoma City Thunder
+Russell Westbrook	PG	Oklahoma City Thunder
+Dwight Howard	C	Orlando Magic
+Corey Maggette	SF	Charlotte Bobcats
+Eduardo Najera	PF	Charlotte Bobcats
+Chris Bosh	PF	Miami Heat
+LeBron James	SF	Miami Heat
+Dwyane Wade	SG	Miami Heat
+LaMarcus Aldridge	PF	Portland Trail Blazers
+John Wall	PG	Washington Wizards
+Danny Granger	SF	Indiana Pacers
+Joe Johnson	SG	Atlanta Hawks
+Tracy McGrady	SF	Atlanta Hawks
+Carlos Boozer	PF	Chicago Bulls
+Derrick Rose	PG	Chicago Bulls
+Carmelo Anthony	SF	New York Knicks
+Amare Stoudemire	PF	New York Knicks
+Ray Allen	SG	Boston Celtics
+Kevin Garnett	PF	Boston Celtics
+Rajon Rondo	PG	Boston Celtics
+Caron Butler	SF	Los Angeles Clippers
+Blake Griffin	PF	Los Angeles Clippers
+Chris Paul	PG	Los Angeles Clippers
+Dirk Nowitzki	PF	Dallas Mavericks

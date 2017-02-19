@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Cheesyfluff
+Class-Path: jl1.0.1.jar
+Main-Class: WorldsHardestGame

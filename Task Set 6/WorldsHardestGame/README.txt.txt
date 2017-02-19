@@ -1,0 +1,1 @@
+run worldshardestgame.jar with jl1.0.1.jar in the same directory to get the program to work
