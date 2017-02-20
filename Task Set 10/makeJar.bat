@@ -1,1 +1,2 @@
-"C:\Program Files\Java\jdk1.8.0_20\bin\jar" -cvfm MissileCommand.jar MANIFEST.MF *.class engine\*.class ui\*.class members\*.class
+javac -sourcepath ./ *.java
+jar -cvfm MissileCommand.jar MANIFEST.MF *.class engine\*.class ui\*.class members\*.class
